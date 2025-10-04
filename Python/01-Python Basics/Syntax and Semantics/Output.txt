@@ -1,0 +1,10 @@
+Hello World
+Dimpal
+Tamta
+Age is greater than 20
+Total: 15
+Sum: 15
+Age: 30 | Name: Alice
+<class 'int'>
+<class 'str'>
+Error: name 'unknown_variable' is not defined
