@@ -1,0 +1,57 @@
+### Arithmetic Operators ###
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
+Floor Division: 2
+Modulus: 0
+Exponentiation: 100000
+
+### Comparison Operators ###
+Equal to (x == y): False
+Not equal to (x != y): True
+Greater than (x > y): False
+Less than (x < y): True
+Greater than or equal to (x >= y): False
+Less than or equal to (x <= y): True
+String equal: True
+String not equal: True
+
+### Logical Operators ###
+A AND B: False
+A OR B: True
+NOT A: False
+
+### Simple Calculator ###
+Enter first number: 15
+Enter second number: 20
+Addition: 35.0
+Subtraction: -5.0
+Multiplication: 300.0
+Division: 0.75
+Floor Division: 0.0
+Modulus: 15.0
+Exponentiation: 3.3252567300796506e+23
+
+### Basic Data Types ###
+Integer: 35 | Type: <class 'int'>
+Float: 5.11 | Type: <class 'float'>
+String: Dimpal | Type: <class 'str'>
+Boolean: True | Type: <class 'bool'>
+Result of comparison (a==b): True | Type: <class 'bool'>
+
+### Type Conversion ###
+String to int: 100 | Type: <class 'int'>
+String to float: 100.0 | Type: <class 'float'>
+Int to String: 35 | Type: <class 'str'>
+Float to Int: 5 | Type: <class 'int'>
+
+### Common Errors ###
+Error: can only concatenate str (not "int") to str
+Fixed Concatenation: Hello5
+
+### Practical Examples ###
+Length of name: 6
+First fruit: apple
+Is 2 in set? True
+Student name: Dimpal
