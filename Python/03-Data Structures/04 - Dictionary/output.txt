@@ -1,1 +1,74 @@
+Empty dictionary using {}: {}
+Type of empty_dict: <class 'dict'>
+Empty dictionary using dict(): {}
+
+Student dictionary: {'name': 'Dimpal', 'age': 32, 'grade': 24}
+Type of student: <class 'dict'>
+
+Dictionary with duplicate keys (last value kept): {'name': 24, 'age': 32}
+
+Access dictionary elements
+Student dictionary: {'name': 'Dimpal', 'age': 32, 'grade': 'A'}
+Grade: A
+Age: 32
+Grade (using get()): A
+Last Name (using get()): None
+Last Name with default: Not Available
+
+Modifying dictionary elements
+Updated age: {'name': 'Dimpal', 'age': 33, 'grade': 'A'}
+Added address: {'name': 'Dimpal', 'age': 33, 'grade': 'A', 'address': 'India'}
+Deleted grade: {'name': 'Dimpal', 'age': 33, 'address': 'India'}
+
+Dictionary methods
+Keys: dict_keys(['name', 'age', 'address'])
+Values: dict_values(['Dimpal', 33, 'India'])
+Items: dict_items([('name', 'Dimpal'), ('age', 33), ('address', 'India')])
+
+Shallow copy (student_copy = student)
+Original student: {'name': 'Dimpal', 'age': 33, 'address': 'India'}
+Copy student_copy: {'name': 'Dimpal', 'age': 33, 'address': 'India'}
+
+After modifying original dictionary
+Original student: {'name': 'Dimpal2', 'age': 33, 'address': 'India'}
+Copy student_copy: {'name': 'Dimpal2', 'age': 33, 'address': 'India'}
+
+Shallow copy using copy() method
+student_copy1: {'name': 'Dimpal2', 'age': 33, 'address': 'India'}
+Original student: {'name': 'Dimpal2', 'age': 33, 'address': 'India'}
+
+After modifying original again
+student_copy1 (unchanged): {'name': 'Dimpal2', 'age': 33, 'address': 'India'}
+Original student: {'name': 'Dimpal3', 'age': 33, 'address': 'India'}
+
+Iterating over dictionaries
+Key: name
+Key: age
+Key: address
+Value: Dimpal3
+Value: 33
+Value: India
+name: Dimpal3
+age: 33
+address: India
+
+Nested dictionary: {'student1': {'name': 'Dimpal', 'age': 32}, 'student2': {'name': 'Rushaank', 'age': 35}}
+Access nested dictionary element - name: Rushaank
+Access nested dictionary element - age: 35
+Items in nested dictionary: dict_items([('student1', {'name': 'Dimpal', 'age': 32}), ('student2', {'name': 'Rushaank', 'age': 35})])
+
+Iterating over nested dictionaries
+student1: {'name': 'Dimpal', 'age': 32}
+name: Dimpal
+age: 32
+student2: {'name': 'Rushaank', 'age': 35}
+name: Rushaank
+age: 35
+
+Dictionary comprehension (squares): {0: 0, 1: 1, 2: 4, 3: 9, 4: 16}
+Conditional dictionary comprehension (evens): {0: 0, 2: 4, 4: 16, 6: 36, 8: 64}
+
+Count frequency of elements in list: {1: 1, 2: 2, 3: 3, 4: 4}
+
+Merged dictionary (dict2 overwrites dict1 keys if same): {'a': 1, 'b': 3, 'c': 4}
 
