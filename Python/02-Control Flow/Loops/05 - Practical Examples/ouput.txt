@@ -37,7 +37,7 @@ Definition: Demonstrate while loop for repeated user input until correct.
 Enter the password: abc
 Incorrect password, try again!
 Enter the password: python123
-Access Granted ✅
+Access Granted 
 
 ========== Sum of Even Numbers Between 1 and 50 ==========
 Definition: Calculate the sum of even numbers using a for loop.
