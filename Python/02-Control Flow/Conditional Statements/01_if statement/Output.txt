@@ -1,0 +1,14 @@
+# Sample Output if user enters age more than 18
+
+Enter your age: 20
+You are allowed to vote in the elections
+
+
+# Sample Output if user enters age is equal to 18
+
+Enter your age: 18
+You are allowed to vote in the elections
+
+# Sample Output if user enters age is less to 18
+
+Enter your age: 16
