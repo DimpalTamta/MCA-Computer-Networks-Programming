@@ -1,9 +1,20 @@
-Age: 25 | Type: <class 'int'>
-Height: 5.9 | Type: <class 'float'>
-Name: Dimpal | Type: <class 'str'>
-Is Student: True | Type: <class 'bool'>
+### Variables ###
+Age: 25
+Height: 5.9
+Name: Dimpal
+Is Student: True
+
+### Type Check ###
+Type of Age: <class 'int'>
+Type of Height: <class 'float'>
+Type of Name: <class 'str'>
+Type of Is Student: <class 'bool'>
+
+### Type Conversion ###
 Age as string: 25 | Type: <class 'str'>
 Height as float: 6.1 | Type: <class 'float'>
+
+### Dynamic Typing ###
 Var: 10 | Type: <class 'int'>
 Var: Hello | Type: <class 'str'>
 Var: 3.14 | Type: <class 'float'>
