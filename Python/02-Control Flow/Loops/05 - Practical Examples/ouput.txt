@@ -1,1 +1,45 @@
+========== Sum of First N Natural Numbers ==========
+Definition: Calculate the sum of the first N natural numbers using loops.
+Sum of first 10 natural numbers (while loop): 55
+Sum of first 10 natural numbers (for loop): 55
+
+========== Prime Numbers Between 1 and 100 ==========
+Definition: Print all prime numbers from 1 to 100 using nested loops.
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+========== Factorial Calculation ==========
+Definition: Calculate the factorial of a number using a for loop.
+Factorial of 6 is 720
+
+========== Fibonacci Series ==========
+Definition: Print the first N terms of the Fibonacci series using a while loop.
+First 10 terms of Fibonacci series: 0 1 1 2 3 5 8 13 21 34 
+
+========== Pattern Printing ==========
+Definition: Print a simple pattern using nested loops.
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+========== Nested Loops Example ==========
+Definition: Demonstrate nested loops by iterating two ranges.
+i: 0 and j: 0
+i: 0 and j: 1
+i: 1 and j: 0
+i: 1 and j: 1
+i: 2 and j: 0
+i: 2 and j: 1
+
+========== While Loop: Password Check ==========
+Definition: Demonstrate while loop for repeated user input until correct.
+Enter the password: abc
+Incorrect password, try again!
+Enter the password: python123
+Access Granted ✅
+
+========== Sum of Even Numbers Between 1 and 50 ==========
+Definition: Calculate the sum of even numbers using a for loop.
+Sum of even numbers from 1 to 50 is: 650
 
