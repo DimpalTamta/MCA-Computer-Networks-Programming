@@ -1,36 +1,52 @@
 # A variable is a container used to store data that can be referenced and modified in a program.
+# ----------------------
+# Python Variables Demonstration
+# Author: Dimpal
+# ----------------------
+
+# ----------------------
 # Declaring Variables
+# ----------------------
 age = 25          # integer
 height = 5.9      # float
 name = "Dimpal"   # string
 is_student = True # boolean
 
-# Printing variables
-print("Age:", age)
-print("Height:", height)
-print("Name:", name)
-print("Is Student:", is_student)
+print("### Variables ###")
+print(f"Age: {age}")
+print(f"Height: {height}")
+print(f"Name: {name}")
+print(f"Is Student: {is_student}\n")
 
-# Variable Types (Dynamic Typing)
-print(type(age))        # int
-print(type(height))     # float
-print(type(name))       # str
-print(type(is_student)) # bool
+# ----------------------
+# Type Check
+# ----------------------
+print("### Type Check ###")
+print(f"Type of Age: {type(age)}")
+print(f"Type of Height: {type(height)}")
+print(f"Type of Name: {type(name)}")
+print(f"Type of Is Student: {type(is_student)}\n")
 
+# ----------------------
 # Type Conversion
+# ----------------------
+print("### Type Conversion ###")
 age_str = str(age)
-print(age_str, type(age_str))  # '25' <class 'str'>
+print(f"Age as string: {age_str} | Type: {type(age_str)}")
 
 height_str = "6.1"
-print(float(height_str), type(float(height_str)))  # 6.1 <class 'float'>
+height_float = float(height_str)
+print(f"Height as float: {height_float} | Type: {type(height_float)}\n")
 
+# ----------------------
 # Dynamic Typing
+# ----------------------
+print("### Dynamic Typing ###")
 var = 10
-print(var, type(var))   # int
+print(f"Var: {var} | Type: {type(var)}")
 
 var = "Hello"
-print(var, type(var))   # str
+print(f"Var: {var} | Type: {type(var)}")
 
 var = 3.14
-print(var, type(var))   # float
-
+print(f"Var: {var} | Type: {type(var)}")
