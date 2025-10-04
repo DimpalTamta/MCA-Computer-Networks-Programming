@@ -100,7 +100,7 @@ while user_input != password:
     if user_input != password:
         print("Incorrect password, try again!")
 
-print("Access Granted ✅")
+print("Access Granted ")
 
 
 # ------------------ 8. Sum of Even Numbers ------------------
