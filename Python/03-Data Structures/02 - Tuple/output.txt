@@ -1,1 +1,43 @@
 
+========== Creating Tuples ==========
+Empty tuple: ()
+Type of empty_tuple: <class 'tuple'>
+Type of tpl: <class 'tuple'>
+Tuple from list: (1, 2, 3, 4, 5, 6)
+Mixed tuple: (1, 'Hello World', 3.14, True)
+
+========== Accessing Tuple Elements ==========
+Third element: 3
+Last element: 6
+Slice (first four elements): (1, 2, 3, 4)
+Reverse tuple: (6, 5, 4, 3, 2, 1)
+
+========== Tuple Operations ==========
+Concatenated tuple: (1, 2, 3, 4, 5, 6, 1, 'Hello World', 3.14, True)
+Repeated mixed tuple: (1, 'Hello World', 3.14, True, 1, 'Hello World', 3.14, True, 1, 'Hello World', 3.14, True)
+Repeated numbers tuple: (1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6)
+
+========== Immutable Nature of Tuples ==========
+Original list: [1, 2, 3, 4, 5]
+Modified list: [1, 'Tirup', 3, 4, 5]
+
+========== Tuple Methods ==========
+Count of 1 in numbers tuple: 1
+Index of 3 in numbers tuple: 2
+
+========== Packing and Unpacking Tuples ==========
+Packed tuple: (1, 'Hello', 3.14)
+Unpacked values: 1 Hello 3.14
+First element: 1
+Middle elements: [2, 3, 4, 5]
+Last element: 6
+
+========== Nested Tuples ==========
+Nested list first sublist first 3 elements: [1, 2, 3]
+Nested tuple first 3 elements: (1, 'Hello', 3.14)
+First nested tuple: (1, 2, 3)
+Third element of second tuple: c
+Iterating over nested tuple elements:
+1 2 3 
+a b c 
+True False 
