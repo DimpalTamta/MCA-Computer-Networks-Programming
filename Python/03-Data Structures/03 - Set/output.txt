@@ -1,1 +1,31 @@
+Set: {1, 2, 3, 4, 5}
+Type of my_set: <class 'set'>
+Type of empty set: <class 'set'>
+Set from list: {1, 2, 3, 4, 5, 6}
+Set after removing duplicates: {1, 2, 3, 4, 5, 6}
 
+Set after adding 7: {1, 2, 3, 4, 5, 6, 7}
+Set after adding 7 again: {1, 2, 3, 4, 5, 6, 7}
+Set after removing 3: {1, 2, 4, 5, 6, 7}
+Set after discarding 11 (non-existent): {1, 2, 4, 5, 6, 7}
+Removed element: 1
+Set after pop: {2, 4, 5, 6, 7}
+Set after clear: set()
+
+Is 3 in set? True
+Is 10 in set? False
+
+Union: {1, 2, 3, 4, 5, 6, 7, 8, 9}
+Intersection: {4, 5, 6}
+Set1 after intersection update: {4, 5, 6}
+Difference (set1 - set2): {1, 2, 3}
+Set1: {1, 2, 3, 4, 5, 6}
+Difference (set2 - set1): {7, 8, 9}
+Symmetric difference: {1, 2, 3, 7, 8, 9}
+
+Is set1 subset of set2? False
+Is set1 superset of set2? True
+
+Unique elements from list: {1, 2, 3, 4, 5}
+
+Unique words: {'tutorial', 'we', 'discussing', 'this', 'In', 'about', 'sets', 'are'}
