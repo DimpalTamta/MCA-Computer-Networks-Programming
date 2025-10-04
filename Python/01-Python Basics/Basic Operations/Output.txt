@@ -32,26 +32,3 @@ Division: 0.75
 Floor Division: 0.0
 Modulus: 15.0
 Exponentiation: 3.3252567300796506e+23
-
-### Basic Data Types ###
-Integer: 35 | Type: <class 'int'>
-Float: 5.11 | Type: <class 'float'>
-String: Dimpal | Type: <class 'str'>
-Boolean: True | Type: <class 'bool'>
-Result of comparison (a==b): True | Type: <class 'bool'>
-
-### Type Conversion ###
-String to int: 100 | Type: <class 'int'>
-String to float: 100.0 | Type: <class 'float'>
-Int to String: 35 | Type: <class 'str'>
-Float to Int: 5 | Type: <class 'int'>
-
-### Common Errors ###
-Error: can only concatenate str (not "int") to str
-Fixed Concatenation: Hello5
-
-### Practical Examples ###
-Length of name: 6
-First fruit: apple
-Is 2 in set? True
-Student name: Dimpal
