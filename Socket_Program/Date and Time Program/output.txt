@@ -1,1 +1,11 @@
+================ SERVER OUTPUT =================
+Server listening on 127.0.0.1:9090 ...
+Type 'quit' to stop the server: Connected by ('127.0.0.1', 65042)
+Connected by ('127.0.0.1', 65049)
+Type 'quit' to stop the server: quit
+Shutting down server...
+Server stopped.
 
+================ CLIENT OUTPUT =================
+Server date & time : 2025-10-04 10:51:31
+Server date & time : 2025-10-04 10:51:42
