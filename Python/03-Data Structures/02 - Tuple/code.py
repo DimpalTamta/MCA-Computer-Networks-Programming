@@ -2,10 +2,8 @@
 # Tuples are ordered, immutable collections of items in Python.
 # They are similar to lists, but once created, their elements cannot be changed.
 
-print("========== Introduction to Tuples ==========")
-print("Tuples are ordered, immutable collections of items.\n")
-
 # ===================== Creating Tuples =====================
+print("========== Creating Tuples ==========")
 # Empty tuple
 empty_tuple = ()
 print("Empty tuple:", empty_tuple)
