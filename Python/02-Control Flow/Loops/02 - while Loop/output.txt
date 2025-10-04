@@ -1,0 +1,12 @@
+========== While Loop: Counting from 0 to 4 ==========
+0
+1
+2
+3
+4
+
+========== Password Check ==========
+Enter the password: java
+Incorrect password, try again!
+Enter the password: python123
+Access Granted ✅
