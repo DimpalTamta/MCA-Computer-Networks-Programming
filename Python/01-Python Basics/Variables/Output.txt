@@ -1,0 +1,9 @@
+Age: 25 | Type: <class 'int'>
+Height: 5.9 | Type: <class 'float'>
+Name: Dimpal | Type: <class 'str'>
+Is Student: True | Type: <class 'bool'>
+Age as string: 25 | Type: <class 'str'>
+Height as float: 6.1 | Type: <class 'float'>
+Var: 10 | Type: <class 'int'>
+Var: Hello | Type: <class 'str'>
+Var: 3.14 | Type: <class 'float'>
