@@ -1,0 +1,12 @@
+--- Echo Server Output ---
+Echo Server listening on 127.0.0.1:9091
+Connected by ('127.0.0.1', 56271)
+Connection closed by ('127.0.0.1', 56271)
+Echo Server stopped.
+
+--- Echo Client Output ---
+Enter message (or 'quit' to exit): Hello
+Server echoed: Hello
+Enter message (or 'quit' to exit): How are you?
+Server echoed: How are you?
+Enter message (or 'quit' to exit): quit
