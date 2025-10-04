@@ -1,0 +1,32 @@
+### Basic Data Types ###
+Integer: 35 | Type: <class 'int'>
+Float: 5.11 | Type: <class 'float'>
+String: Dimpal | Type: <class 'str'>
+Boolean: True | Type: <class 'bool'>
+Result of comparison (a==b): True | Type: <class 'bool'>
+
+### Type Conversion ###
+String to int: 100 | Type: <class 'int'>
+String to float: 100.0 | Type: <class 'float'>
+Int to string: 35 | Type: <class 'str'>
+Float to int: 5 | Type: <class 'int'>
+
+### Common Errors ###
+Error: can only concatenate str (not "int") to str
+Fixed Concatenation: Hello5
+
+### Practical Examples ###
+Length of name: 6
+
+### Advanced Data Types ###
+List: ['apple', 'banana', 'cherry'] | Type: <class 'list'>
+First fruit: apple
+Tuple: (10.5, 20.3) | Type: <class 'tuple'>
+X coordinate: 10.5
+Set: {1, 2, 3} | Type: <class 'set'>
+Is 2 in set? True
+Dictionary: {'name': 'Dimpal', 'age': 22, 'grade': 'A'} | Type: <class 'dict'>
+Student name: Dimpal
+Student age: 22
+
+### End of Script ###
