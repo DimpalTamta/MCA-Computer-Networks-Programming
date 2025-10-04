@@ -1,0 +1,20 @@
+##Positive Even Number
+Enter a number: 12
+The number is positive.
+It is an even number.
+
+
+##Positive Odd Number
+Enter a number: 7
+The number is positive.
+It is an odd number.
+
+
+##Negative Number
+Enter a number: -5
+The number is negative.
+
+
+##Zero
+Enter a number: 0
+The number is zero.
