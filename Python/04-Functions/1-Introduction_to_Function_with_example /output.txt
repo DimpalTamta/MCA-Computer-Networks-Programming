@@ -1,1 +1,47 @@
+### Even or Odd Function ###
+The number is even
+
+### Add Function ###
+Result: 6
+
+### Greet Function ###
+Hello Dimpal, Welcome to the paradise!
+
+### Print Numbers Function ###
+1
+2
+3
+4
+5
+6
+7
+8
+Dimpal
+This
+is
+a
+sentence
+from
+Dimpal
+
+### Print Details Function ###
+name: Dimpal
+age: 25
+country: India
+
+### Print Details Mix Function ###
+Positional argument: 1
+Positional argument: 2
+Positional argument: 3
+Positional argument: 4
+Positional argument: Dimpal
+name: Dimpal
+age: 25
+country: India
+
+### Multiply Function ###
+Result: 6
+
+### Multiply Multi Function ###
+Result: (6, 2)
 
