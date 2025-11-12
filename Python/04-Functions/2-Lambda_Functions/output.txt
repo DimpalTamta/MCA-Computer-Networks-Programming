@@ -1,29 +1,9 @@
 ----------------------------
-EXAMPLES OF FUNCTIONS OUTPUT
+LAMBDA FUNCTION OUTPUT
 ----------------------------
 
-Example 1: Temperature Conversion
-77.0
-25.0
-
-Example 2: Password Strength Checker
-False
+<class 'function'>
+11
 True
-
-Example 3: Calculate Total Cost in a Shopping Cart
-6.1
-
-Example 4: Check if a String is Palindrome
-True
-False
-
-Example 5: Factorial using Recursion
-720
-
-Example 6: Word Frequency Counter
-{'this': 2, 'is': 3, 'a': 2, 'sample': 1, 'text': 1, 'file': 1, 'with': 1, 'some': 1, 'words': 1}
-
-Example 7: Validate Email Address
-True
-False
-
+39
+[1, 4, 9, 16, 25, 36]
